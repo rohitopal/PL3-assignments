@@ -1,0 +1,148 @@
+h1 {
+  margin: 0;
+  font-family: Sacramento;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, sans-serif;
+}
+
+h2{
+  font-family: Montserrat, sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: Montserrat, sans-serif;
+  color: #11999E;
+}
+
+.normal_programmer {
+  font-weight: normal;
+}
+
+.top_container{
+  background-color: #e4f9f5;
+  margin: 0;
+  padding-top: 100px;
+}
+
+.middle_container {
+
+}
+
+.bottom_container {
+
+}
+
+.top_cloud{
+  position: relative;
+  left: 300px;
+
+}
+
+.bottom_cloud{
+  position: absolute;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.skills {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 150px;
+
+}
+
+.contact-me {
+  display: block;
+}
+.skill-row{
+  width: 60%;
+  text-align: left;
+  margin: 100px auto 150px auto;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
+.skill-image {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-right: 100px;
+  float: left;
+}
+
+.self-description {
+  width: 40%;
+  margin: 50px auto 70px auto;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 10%;
+}
+.Button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Montserrat;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px auto;
+}
+
+.Button:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container {
+  margin: 0;
+  background-color: #66bfbf;
+  padding: 50px;
+}
+.footer-link {
+  font-family: Montserrat,sans-serif;
+  padding: 50px;
+  color: #11999E;
+  text-decoration: none;
+}
+.trade-mark {
+  font-size: 15px;
+  color: #eaf6f6;
+}
+
+.nav-bar-color {
+  background-color: #66bfbf;
+}
